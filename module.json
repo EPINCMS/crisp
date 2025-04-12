@@ -1,0 +1,10 @@
+{
+    "name": "Crisp",
+    "description": "Crisp canlı destek entegrasyonu modülü",
+    "version": "1.0.0",
+    "enabled": true,
+    "author": "EpinCMS",
+    "homepage": "https://epincms.com",
+    "requires": [],
+    "slug": "crisp"
+} 
